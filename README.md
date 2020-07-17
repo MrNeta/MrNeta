@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Not much to say but hey you made it onto my profile!
+(Achievement unlocked 🎉)
 <!--
 **MrNeta/MrNeta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
